@@ -1,6 +1,8 @@
 Here's a GitHub description for your IMDb movie analysis project, including insights and charts:
 
----
+![image](https://github.com/user-attachments/assets/ce31ddbb-6b3b-4c41-8750-03c185a20341)
+
+
 
 # 🎬 IMDb Movie Analysis 🎥
 
