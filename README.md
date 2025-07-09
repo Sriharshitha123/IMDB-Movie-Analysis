@@ -1,9 +1,5 @@
 Here's a GitHub description for your IMDb movie analysis project, including insights and charts:
 
-![image](https://github.com/user-attachments/assets/ce31ddbb-6b3b-4c41-8750-03c185a20341)
-
-
-
 # 🎬 IMDb Movie Analysis 🎥
 
 Welcome to the IMDb Movie Analysis project! This repository contains an exploratory data analysis (EDA) of the top 500 movies listed on IMDb. Through this project, we aim to uncover trends, factors influencing movie success, and provide actionable insights into the world of cinema. 🍿📊
